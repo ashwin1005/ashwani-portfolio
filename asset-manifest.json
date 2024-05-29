@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashwani-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/ashwani-portfolio/static/js/main.c6151b5b.js",
+    "static/js/453.1407b060.chunk.js": "/ashwani-portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/ashwani-portfolio/index.html",
+    "main.f855e6bc.css.map": "/ashwani-portfolio/static/css/main.f855e6bc.css.map",
+    "main.c6151b5b.js.map": "/ashwani-portfolio/static/js/main.c6151b5b.js.map",
+    "453.1407b060.chunk.js.map": "/ashwani-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c6151b5b.js"
+  ]
+}
